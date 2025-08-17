@@ -28,6 +28,7 @@ sudo apt install sysstat bc   # Ubuntu/Debian
 
 <h3>Usage:</h3>
 chmod +x monitor.sh
+
 ./monitor.sh
 
 <h3>Example:</h3>
